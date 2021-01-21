@@ -9,9 +9,9 @@ videos-mfk utiliza [Node.js](https://nodejs.org/).
 Instalar as dependências e executar script principal.
 
 ```sh
-$ cd dillinger
-$ npm install -d
+$ npm install
 $ npm start
 ```
 
 Download subtitles
+```youtube-dl --sub-lang 'pt' --write-sub --write-auto-sub --skip-download --output "%(id)s.%(ext)s" -a ../../videos.txt```
