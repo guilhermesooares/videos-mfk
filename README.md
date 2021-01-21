@@ -13,3 +13,5 @@ $ cd dillinger
 $ npm install -d
 $ npm start
 ```
+
+Download subtitles
