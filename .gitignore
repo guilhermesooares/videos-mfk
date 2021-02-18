@@ -1,2 +1,6 @@
 .vscode
 node_modules
+virtualenv
+virtualenv/
+
+.DS_Store
